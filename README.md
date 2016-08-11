@@ -1,8 +1,10 @@
-# webviewer-demo
+# Webviewer Demo
 
 A demo cordova application integrated with PDFTron WebViewer.
 
 ## Building Instructions for Android
+
+Clone the repo:
 
 ``` bash
 git clone https://github.com/yedhukrishnan/webviewer-demo.git
@@ -15,7 +17,7 @@ Install [Cordova](https://cordova.apache.org/) if it is not already installed:
 sudo npm install -g cordova
 ```
 
-Build the APK (for Android):
+Build the APK for Android:
 
 
 ``` bash
