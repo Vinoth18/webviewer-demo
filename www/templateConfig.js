@@ -32,7 +32,6 @@
 		});
 
 		docViewer.on('pageComplete', function() {
-			debugger;
 			$('[id^=pageWidgetContainer] div').each(function() {
 				var $this = $(this);
 				$this.find('input,textarea').prop('readonly', true);
