@@ -24,9 +24,10 @@ Build the APK for Android:
 cordova build android
 ```
 
-This creates the debug APK (`platforms/android/build/outputs/apk/android-debug.apk`). Install the APK in your android device. If you have [ADB](https://developer.android.com/studio/command-line/adb.html) installed in your machine, you can install it using:
+Run the APK for Android:
+
 
 ``` bash
-adb install -r platforms/android/build/outputs/apk/android-debug.apk
+cordova run android
 ```
 
