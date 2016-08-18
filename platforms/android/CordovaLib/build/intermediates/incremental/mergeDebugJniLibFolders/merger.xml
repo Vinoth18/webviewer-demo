@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/yedhukrishnan/Projects/aconex/viewer/platforms/android/CordovaLib/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/yedhukrishnan/Projects/aconex/viewer/platforms/android/CordovaLib/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/vkuppusamy/Documents/aconex/codebase/webviewer-demo/platforms/android/CordovaLib/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/vkuppusamy/Documents/aconex/codebase/webviewer-demo/platforms/android/CordovaLib/src/debug/jniLibs"/></dataSet></merger>
